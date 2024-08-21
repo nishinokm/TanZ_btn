@@ -1,0 +1,34 @@
+[
+  {
+    "name": "招呼",
+    "translate": {
+      "zh-TW": "招呼語",
+      "en-US": "Greeting",
+      "ja-JP": "挨拶"
+    }
+  },
+  {
+    "name": "動物",
+    "translate": {
+      "zh-TW": "動物",
+      "en-US": "Animals",
+      "ja-JP": "動物"
+    }
+  },
+  {
+    "name": "中文",
+    "translate": {
+      "zh-TW": "中文",
+      "en-US": "Chinese.",
+      "ja-JP": "中国語"
+    }
+  },
+  {
+    "name": "雜項",
+    "translate": {
+      "zh-TW": "雜項",
+      "en-US": "Misc.",
+      "ja-JP": "その他"
+    }
+  }
+]

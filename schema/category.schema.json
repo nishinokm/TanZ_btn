@@ -1,0 +1,38 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "title": "分類名稱"
+      },
+      "translate": {
+        "type": "object",
+        "properties": {
+          "zh-TW": {
+            "type": "string",
+            "title": "中文翻譯"
+          },
+          "en-US": {
+            "type": "string",
+            "title": "英文翻譯"
+          },
+          "ja-JP": {
+            "type": "string",
+            "title": "日文翻譯"
+          }
+        }
+      },
+      "hide": {
+        "type": "boolean",
+        "title": "是否隱藏"
+      }
+    },
+    "required": [
+      "name",
+      "translate"
+    ]
+  }
+}

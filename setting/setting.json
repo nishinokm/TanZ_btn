@@ -1,0 +1,110 @@
+{
+  "i18n": true,
+  "neko_mimi": true,
+  "name": {
+    "TW": {
+      "title": "TanZ 按鈕",
+      "fullName": "TanZ 按鈕"
+    },
+    "JP": {
+      "title": "TanZ ボタン",
+      "fullName": "TanZ ボタン"
+    },
+    "EN": {
+      "title": "TanZ Button",
+      "fullName": "TanZ Button"
+    }
+  },
+  "readme": "<div style=\"text-align: center;font-size: 20px;\">TanZ是來自日本的2.5次元VSinger，獨一無二的嗓音擄獲許多台灣粉絲。</div>",
+  "header": {
+    "icon": "img/logo.svg",
+    "lit": "https://lit.link/en/tnz01",
+    "youtube": "https://www.youtube.com/@TanZ1001",
+    "twitter": "https://twitter.com/tnz_01"
+  },
+  "related": [],
+  "link": [
+    {
+      "background": "#000000",
+      "color": "#FFFFFF",
+      "name": "TanZ X(Twitter)",
+      "url": "https://x.com/tnz_01"
+    },
+    {
+      "background": "#000000",
+      "color": "#FFFFFF",
+      "name": "Sub X (Twitter)",
+      "url": "https://x.com/tnzsub"
+    },
+    {
+      "backg元round": "#ff2500",
+      "color": "#FFFFFF",
+      "name": "TanZ YouTube",
+      "url": "https://www.youtube.com/@TanZ1001"
+    },
+    {
+      "background": "#0280fc",
+      "color": "#FFFFFF",
+      "name": "Twitcasting",
+      "url": "https://twitcasting.tv/c:tnz_1"
+    },
+    {
+      "background": "#f300fd",
+      "color": "#FFFFFF",
+      "name": "IG",
+      "url": "https://www.instagram.com/tnz_i01/"
+    },
+    {
+      "background": "#000000",
+      "color": "#FFFFFF",
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/@tnznt01"
+    },
+    {
+      "background": "#f5e1df",
+      "color": "#000000",
+      "name": "Niconico",
+      "url": "https://www.nicovideo.jp/user/91777658"
+    },
+    {
+      "background": "#f3969a",
+      "color": "#FFFFFF",
+      "name": "マシュマロ/Marshmallow",
+      "url": "https://marshmallow-qa.com/6y1aub8ij3h7hzo"
+    },
+	{
+      "background": "#ff2500",
+      "color": "#FFFFFF",
+      "name": "Official Web Shop",
+      "url": "https://tnz01.booth.pm/"
+    },
+    {
+      "background": "#f56600",
+      "color": "#FFFFFF",
+      "name": "Amazon ほしい物リスト",
+      "url": "https://www.amazon.co.jp/hz/wishlist/ls/39A5BBAQM34KM"
+    }
+  ],
+  "footer": {
+    "author": [
+      {
+        "name": "KM",
+        "url": "https://twitter.com/nishinokm"
+      }
+    ],
+    "info": [
+      ""
+    ],
+    "githubUrl": "https://github.com/chenteddy/mayuru_button/"
+  },
+  "console": {
+    "text": "TanZ",
+    "size": "24px",
+    "color": "white",
+    "img": "",
+    "imgWidth": "100%",
+    "imgHeight": "56%"
+  },
+  "mediaSession": "TNZ_BIG.jpg",
+  "CDN": ""
+}

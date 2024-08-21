@@ -1,0 +1,71 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string",
+        "title": "聲音名稱"
+      },
+      "path": {
+        "type": "string",
+        "title": "檔案名稱",
+        "pattern": "[^*|\\:\"<>?/]+\\.(mp3|wav)+"
+      },
+      "date": {
+        "type": "string",
+        "title": "更新時間",
+        "format": "date"
+      },
+      "translate": {
+        "type": "object",
+        "title": "翻譯",
+        "properties": {
+          "zh-TW": {
+            "type": "string",
+            "title": "中文翻譯"
+          },
+          "en-US": {
+            "type": "string",
+            "title": "英文翻譯"
+          },
+          "ja-JP": {
+            "type": "string",
+            "title": "日文翻譯"
+          }
+        }
+      },
+      "category": {
+        "type": "string",
+        "title": "聲音分類"
+      },
+      "mark": {
+        "type": "object",
+        "title": "聲音來源",
+        "properties": {
+          "title": {
+            "type": "string",
+            "title": "來源標題"
+          },
+          "time": {
+            "type": "string",
+            "title": "時間軸",
+            "pattern": "^[0-9]+(\\:[0-6][0-9]){1,2}~[0-9]+(\\:[0-6][0-9]){1,2}$"
+          },
+          "url": {
+            "type": "string",
+            "title": "來源網址"
+          }
+        }
+      }
+    },
+    "required": [
+      "name",
+      "path",
+      "date",
+      "translate",
+      "category"
+    ]
+  }
+}
