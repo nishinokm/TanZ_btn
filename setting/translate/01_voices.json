@@ -237,7 +237,7 @@
     "translate": {
       "zh-TW": "嗚嘛(高音)",
       "en-US": "Mwah(high)",
-      "ja-JP": "Mwah(高い声)"
+      "ja-JP": "うま(高い)"
     },
     "usePicture": {
       "zh-TW": "tnz400.jpg",
@@ -258,7 +258,7 @@
     "translate": {
       "zh-TW": "嗚嘛(低音)",
       "en-US": "Mwah(low)",
-      "ja-JP": "Mwah(低い声)"
+      "ja-JP": "うま(低い)"
     },
     "usePicture": {
       "zh-TW": "tnz400.jpg",
@@ -685,11 +685,53 @@
       "en-US": "tnz400.jpg",
       "ja-JP": "tnz400.jpg"
     },
-    "category": "雜項",
+    "category": "招呼",
     "mark": {
       "title": "新プラン開始！130％が見たい！！！！",
       "time": "2024-07-02",
       "url": "https://www.youtube.com/watch?v=RGGz17QOLyU"
+    }
+  },
+  {
+    "name": "clip",
+    "path": "clip.mp3",
+    "date": "2024-08-22",
+    "translate": {
+      "zh-TW": "(拍手)",
+      "en-US": "(clip)",
+      "ja-JP": "(拍手)"
+    },
+    "usePicture": {
+      "zh-TW": "tnz400.jpg",
+      "en-US": "tnz400.jpg",
+      "ja-JP": "tnz400.jpg"
+    },
+    "category": "雜項",
+    "mark": {
+      "title": "第二回！死んだら即終了ハードコアマイクラ！！！",
+      "time": "2024-08-21",
+      "url": "https://www.youtube.com/watch?v=xtl_zlxcU-g"
+    }
+  },
+  {
+    "name": "wakotan",
+    "path": "wakotan.mp3",
+    "date": "2024-08-22",
+    "translate": {
+      "zh-TW": "通用招呼",
+      "en-US": "WakoTan",
+      "ja-JP": "わこたん"
+    },
+    "usePicture": {
+      "zh-TW": "tnz400.jpg",
+      "en-US": "tnz400.jpg",
+      "ja-JP": "tnz400.jpg"
+    },
+    "category": "招呼",
+    "mark": {
+      "title": "第二回！死んだら即終了ハードコアマイクラ！！！",
+      "time": "2024-08-21",
+      "url": "https://www.youtube.com/watch?v=xtl_zlxcU-g"
     }
   }
 ]
