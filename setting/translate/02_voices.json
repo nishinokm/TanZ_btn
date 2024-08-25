@@ -1,0 +1,107 @@
+[
+  {
+    "name": "sugoine",
+    "path": "sugoine.mp3",
+    "date": "2024-08-21",
+    "translate": {
+      "zh-TW": "好厲害",
+      "en-US": "Great!",
+      "ja-JP": "すごいね"
+    },
+    "usePicture": {
+      "zh-TW": "tnz400.jpg",
+      "en-US": "tnz400.jpg",
+      "ja-JP": "tnz400.jpg"
+    },
+    "category": "讚美",
+    "mark": {
+      "title": "新プラン開始！130％が見たい！！！！",
+      "time": "2024-07-02",
+      "url": "https://www.youtube.com/watch?v=RGGz17QOLyU"
+    }
+  },
+  {
+    "name": "eraiEraizo",
+    "path": "eraiEraizo.mp3",
+    "date": "2024-08-20",
+    "translate": {
+      "zh-TW": "你很棒 2x",
+      "en-US": "Good for you 2x",
+      "ja-JP": "えらい～えらいぞ～"
+    },
+    "usePicture": {
+      "zh-TW": "tnz400.jpg",
+      "en-US": "tnz400.jpg",
+      "ja-JP": "tnz400.jpg"
+    },
+    "category": "讚美",
+    "mark": {
+      "title": "",
+      "time": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "kawaii",
+    "path": "kawaii.mp3",
+    "date": "2024-08-25",
+    "translate": {
+      "zh-TW": "好可愛",
+      "en-US": "kawaii",
+      "ja-JP": "kawaii"
+    },
+    "usePicture": {
+      "zh-TW": "tnz400.jpg",
+      "en-US": "tnz400.jpg",
+      "ja-JP": "tnz400.jpg"
+    },
+    "category": "讚美",
+    "mark": {
+      "title": "【 #Palworld 】アプデですごいことなってるらしい…！",
+      "time": "2024-07-06",
+      "url": "https://www.youtube.com/watch?v=3lkD1B9RrZQ"
+    }
+  },
+  {
+    "name": "umai",
+    "path": "umai.mp3",
+    "date": "2024-08-25",
+    "translate": {
+      "zh-TW": "好吃",
+      "en-US": "yummy",
+      "ja-JP": "美味い"
+    },
+    "usePicture": {
+      "zh-TW": "tnz400.jpg",
+      "en-US": "tnz400.jpg",
+      "ja-JP": "tnz400.jpg"
+    },
+    "category": "讚美",
+    "mark": {
+      "title": "【 #Palworld 】アプデですごいことなってるらしい…！",
+      "time": "2024-07-06",
+      "url": "https://www.youtube.com/watch?v=3lkD1B9RrZQ"
+    }
+  },
+  {
+    "name": "ureshii",
+    "path": "ureshii.mp3",
+    "date": "2024-08-25",
+    "translate": {
+      "zh-TW": "好開心",
+      "en-US": "happy",
+      "ja-JP": "嬉しい"
+    },
+    "usePicture": {
+      "zh-TW": "tnz400.jpg",
+      "en-US": "tnz400.jpg",
+      "ja-JP": "tnz400.jpg"
+    },
+    "category": "讚美",
+    "mark": {
+      "title": "【 #Palworld 】アプデですごいことなってるらしい…！",
+      "time": "2024-07-06",
+      "url": "https://www.youtube.com/watch?v=3lkD1B9RrZQ"
+    }
+  }
+]

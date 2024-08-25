@@ -2,7 +2,7 @@
   {
     "name": "招呼",
     "translate": {
-      "zh-TW": "招呼語",
+      "zh-TW": "招呼",
       "en-US": "Greeting",
       "ja-JP": "挨拶"
     }
@@ -19,8 +19,16 @@
     "name": "中文",
     "translate": {
       "zh-TW": "中文",
-      "en-US": "Chinese.",
+      "en-US": "Chinese",
       "ja-JP": "中国語"
+    }
+  },
+  {
+    "name": "讚美",
+    "translate": {
+      "zh-TW": "一些讚美的形容詞",
+      "en-US": "compliment",
+      "ja-JP": "賛辞"
     }
   },
   {
