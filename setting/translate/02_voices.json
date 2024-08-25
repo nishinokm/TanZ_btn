@@ -47,8 +47,8 @@
     "date": "2024-08-25",
     "translate": {
       "zh-TW": "好可愛",
-      "en-US": "kawaii",
-      "ja-JP": "kawaii"
+      "en-US": "Kawaii",
+      "ja-JP": "可愛い"
     },
     "usePicture": {
       "zh-TW": "tnz400.jpg",
@@ -68,7 +68,7 @@
     "date": "2024-08-25",
     "translate": {
       "zh-TW": "好吃",
-      "en-US": "yummy",
+      "en-US": "Yummy",
       "ja-JP": "美味い"
     },
     "usePicture": {
@@ -89,7 +89,7 @@
     "date": "2024-08-25",
     "translate": {
       "zh-TW": "好開心",
-      "en-US": "happy",
+      "en-US": "Happy",
       "ja-JP": "嬉しい"
     },
     "usePicture": {

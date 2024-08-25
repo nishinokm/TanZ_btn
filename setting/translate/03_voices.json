@@ -506,7 +506,7 @@
   {
     "name": "aaaa",
     "path": "aaaa.mp3",
-    "date": "2024-08-22",
+    "date": "2024-08-25",
     "translate": {
       "zh-TW": "啊啊啊啊(長)",
       "en-US": "Aaaa(long)",
@@ -527,7 +527,7 @@
   {
     "name": "wai",
     "path": "wai.mp3",
-    "date": "2024-08-22",
+    "date": "2024-08-25",
     "translate": {
       "zh-TW": "Wai",
       "en-US": "Wai",
@@ -548,7 +548,7 @@
   {
     "name": "yatta",
     "path": "yatta.mp3",
-    "date": "2024-08-22",
+    "date": "2024-08-25",
     "translate": {
       "zh-TW": "做到了！",
       "en-US": "Hooray!",
@@ -569,7 +569,7 @@
   {
     "name": "mouikkaiasoberudon",
     "path": "mouikkaiasoberudon.mp3",
-    "date": "2024-08-22",
+    "date": "2024-08-25",
     "translate": {
       "zh-TW": "太鼓達人(再玩一次)",
       "en-US": "Taiko no Tatsujin(Play Again)",
@@ -590,10 +590,10 @@
   {
     "name": "kyokuwoerabudon",
     "path": "kyokuwoerabudon.mp3",
-    "date": "2024-08-22",
+    "date": "2024-08-25",
     "translate": {
       "zh-TW": "太鼓達人(選擇歌曲)",
-      "en-US": "Taiko no Tatsujin(Select songs)",
+      "en-US": "Taiko no Tatsujin(Select Songs)",
       "ja-JP": "曲を選ぶドン"
     },
     "usePicture": {
@@ -611,10 +611,10 @@
   {
     "name": "shikanokonokonokokoshitantan",
     "path": "shikanokonokonokokoshitantan.mp3",
-    "date": "2024-08-22",
+    "date": "2024-08-25",
     "translate": {
       "zh-TW": "鹿乃子乃子乃子虎視眈眈",
-      "en-US": "Shikano konokonoko koshitantan",
+      "en-US": "Shikanko nokonoko koshitantan",
       "ja-JP": "しかのこのこのここしたんたん"
     },
     "usePicture": {
