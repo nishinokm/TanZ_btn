@@ -614,7 +614,7 @@
     "date": "2024-08-25",
     "translate": {
       "zh-TW": "鹿乃子乃子乃子虎視眈眈",
-      "en-US": "Shikanko nokonoko koshitantan",
+      "en-US": "Shikanoko nokonoko koshitantan",
       "ja-JP": "しかのこのこのここしたんたん"
     },
     "usePicture": {
@@ -627,6 +627,48 @@
       "title": "【 #Palworld 】アプデですごいことなってるらしい…！",
       "time": "2024-07-06",
       "url": "https://www.youtube.com/watch?v=3lkD1B9RrZQ"
+    }
+  },
+  {
+    "name": "yabai",
+    "path": "yabai.mp3",
+    "date": "2024-08-29",
+    "translate": {
+      "zh-TW": "牙敗 9x",
+      "en-US": "Oh no 9x",
+      "ja-JP": "ヤバい 9x"
+    },
+    "usePicture": {
+      "zh-TW": "tnz400.jpg",
+      "en-US": "tnz400.jpg",
+      "ja-JP": "tnz400.jpg"
+    },
+    "category": "雜項",
+    "mark": {
+      "title": "第二回！死んだら即終了ハードコアマイクラ！！！",
+      "time": "2024-08-21",
+      "url": "https://www.youtube.com/watch?v=xtl_zlxcU-g"
+    }
+  },
+  {
+    "name": "katta",
+    "path": "katta.mp3",
+    "date": "2024-08-29",
+    "translate": {
+      "zh-TW": "贏了！ 4x",
+      "en-US": "Win! 4x",
+      "ja-JP": "勝った！ 4x"
+    },
+    "usePicture": {
+      "zh-TW": "tnz400.jpg",
+      "en-US": "tnz400.jpg",
+      "ja-JP": "tnz400.jpg"
+    },
+    "category": "雜項",
+    "mark": {
+      "title": "第二回！死んだら即終了ハードコアマイクラ！！！",
+      "time": "2024-08-21",
+      "url": "https://www.youtube.com/watch?v=xtl_zlxcU-g"
     }
   }
 ]

@@ -63,6 +63,27 @@
     }
   },
   {
+    "name": "irashai",
+    "path": "irashai.mp3",
+    "date": "2024-08-21",
+    "translate": {
+      "zh-TW": "歡迎",
+      "en-US": "Welcome!",
+      "ja-JP": "いらっしゃい"
+    },
+    "usePicture": {
+      "zh-TW": "tnz400.jpg",
+      "en-US": "tnz400.jpg",
+      "ja-JP": "tnz400.jpg"
+    },
+    "category": "招呼",
+    "mark": {
+      "title": "新プラン開始！130％が見たい！！！！",
+      "time": "2024-07-02",
+      "url": "https://www.youtube.com/watch?v=RGGz17QOLyU"
+    }
+  },
+  {
     "name": "matane~byebye",
     "path": "matane~byebye.mp3",
     "date": "2024-08-20",
@@ -165,27 +186,6 @@
       "title": "",
       "time": "",
       "url": ""
-    }
-  },
-  {
-    "name": "irashai",
-    "path": "irashai.mp3",
-    "date": "2024-08-21",
-    "translate": {
-      "zh-TW": "歡迎",
-      "en-US": "Welcome!",
-      "ja-JP": "いらしゃい"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "招呼",
-    "mark": {
-      "title": "新プラン開始！130％が見たい！！！！",
-      "time": "2024-07-02",
-      "url": "https://www.youtube.com/watch?v=RGGz17QOLyU"
     }
   }
 ]
