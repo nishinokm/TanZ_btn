@@ -1,338 +1,65 @@
 [
   {
-    "name": "pika2",
-    "path": "pika2.mp3",
-    "date": "2024-08-20",
+    "name": "你好",
+    "path": "你好.mp3",
+    "date": "2024-09-05",
     "translate": {
-      "zh-TW": "皮卡 2x",
-      "en-US": "Pika 2x",
-      "ja-JP": "ﾋﾟｶ 2x"
+      "zh-TW": "你好",
+      "en-US": "Hello",
+      "ja-JP": "こんにちは"
     },
     "usePicture": {
       "zh-TW": "tnz400.jpg",
       "en-US": "tnz400.jpg",
       "ja-JP": "tnz400.jpg"
     },
-    "category": "動物",
+    "category": "中文",
     "mark": {
-      "title": "寝れないならここよらない？歌枠♪",
-      "time": "2024-08-19",
-      "url": "https://www.youtube.com/watch?v=25ERoenFpU4"
+      "title": "台湾のお菓子食べてまったりお茶会♪",
+      "time": "2024-09-05",
+      "url": "https://www.youtube.com/watch?v=duQKt2cQXDs"
     }
   },
   {
-    "name": "pika3",
-    "path": "pika3.mp3",
-    "date": "2024-08-20",
+    "name": "謝謝",
+    "path": "謝謝.mp3",
+    "date": "2024-09-05",
     "translate": {
-      "zh-TW": "皮卡 3x",
-      "en-US": "Pika 3x",
-      "ja-JP": "ﾋﾟｶ 3x"
+      "zh-TW": "謝謝",
+      "en-US": "Thanks",
+      "ja-JP": "ありがとう"
     },
     "usePicture": {
       "zh-TW": "tnz400.jpg",
       "en-US": "tnz400.jpg",
       "ja-JP": "tnz400.jpg"
     },
-    "category": "動物",
+    "category": "中文",
     "mark": {
-      "title": "寝れないならここよらない？歌枠♪",
-      "time": "2024-08-19",
-      "url": "https://www.youtube.com/watch?v=25ERoenFpU4"
+      "title": "台湾のお菓子食べてまったりお茶会♪",
+      "time": "2024-09-05",
+      "url": "https://www.youtube.com/watch?v=duQKt2cQXDs"
     }
   },
   {
-    "name": "pika7",
-    "path": "pika7.mp3",
-    "date": "2024-08-20",
+    "name": "小籠包",
+    "path": "小籠包.mp3",
+    "date": "2024-09-05",
     "translate": {
-      "zh-TW": "皮卡 7x",
-      "en-US": "Pika 7x",
-      "ja-JP": "ﾋﾟｶ 7x"
+      "zh-TW": "小籠包",
+      "en-US": "Soup dumpling",
+      "ja-JP": "シャオロンバオ"
     },
     "usePicture": {
       "zh-TW": "tnz400.jpg",
       "en-US": "tnz400.jpg",
       "ja-JP": "tnz400.jpg"
     },
-    "category": "動物",
+    "category": "中文",
     "mark": {
-      "title": "寝れないならここよらない？歌枠♪",
-      "time": "2024-08-19",
-      "url": "https://www.youtube.com/watch?v=25ERoenFpU4"
-    }
-  },
-  {
-    "name": "pikachu_Low",
-    "path": "pikachu_Low.mp3",
-    "date": "2024-08-20",
-    "translate": {
-      "zh-TW": "皮卡丘(低音)",
-      "en-US": "Pikachu(low)",
-      "ja-JP": "ﾋﾟｶﾁｭｰ"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "動物",
-    "mark": {
-      "title": "寝れないならここよらない？歌枠♪",
-      "time": "2024-08-19",
-      "url": "https://www.youtube.com/watch?v=25ERoenFpU4"
-    }
-  },
-  {
-    "name": "uma_high",
-    "path": "uma_high.mp3",
-    "date": "2024-08-20",
-    "translate": {
-      "zh-TW": "嗚嘛(高音)",
-      "en-US": "Mwah(high)",
-      "ja-JP": "うま(高い)"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "動物",
-    "mark": {
-      "title": "灰簾祭セトリ歌枠！！",
-      "time": "2024-08-15",
-      "url": "https://www.youtube.com/watch?v=WbJwFLAX4Kg"
-    }
-  },
-  {
-    "name": "uma_low",
-    "path": "uma_low.mp3",
-    "date": "2024-08-20",
-    "translate": {
-      "zh-TW": "嗚嘛(低音)",
-      "en-US": "Mwah(low)",
-      "ja-JP": "うま(低い)"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "動物",
-    "mark": {
-      "title": "灰簾祭セトリ歌枠！！",
-      "time": "2024-08-15",
-      "url": "https://www.youtube.com/watch?v=WbJwFLAX4Kg"
-    }
-  },
-  {
-    "name": "tanznodannadesu",
-    "path": "tanznodannadesu.mp3",
-    "date": "2024-08-20",
-    "translate": {
-      "zh-TW": "TanZ的老公",
-      "en-US": "TanZ's husband",
-      "ja-JP": "TanZの旦那です"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "動物",
-    "mark": {
-      "title": "",
-      "time": "",
-      "url": ""
-    }
-  },
-  {
-    "name": "clearThroat",
-    "path": "clearThroat.mp3",
-    "date": "2024-08-20",
-    "translate": {
-      "zh-TW": "清喉嚨",
-      "en-US": "Clear throat",
-      "ja-JP": "咳払い"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "",
-      "time": "",
-      "url": ""
-    }
-  },
-  {
-    "name": "ikimasu~",
-    "path": "ikimasu~.mp3",
-    "date": "2024-08-20",
-    "translate": {
-      "zh-TW": "行きます",
-      "en-US": "Let's go",
-      "ja-JP": "行きます"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "",
-      "time": "",
-      "url": ""
-    }
-  },
-  {
-    "name": "yes",
-    "path": "yes.mp3",
-    "date": "2024-08-20",
-    "translate": {
-      "zh-TW": "Yes",
-      "en-US": "Yes",
-      "ja-JP": "Yes"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "",
-      "time": "",
-      "url": ""
-    }
-  },
-  {
-    "name": "nono",
-    "path": "nono.mp3",
-    "date": "2024-08-20",
-    "translate": {
-      "zh-TW": "NONO",
-      "en-US": "NONO",
-      "ja-JP": "NONO"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "",
-      "time": "",
-      "url": ""
-    }
-  },
-  {
-    "name": "iya4",
-    "path": "iya4.mp3",
-    "date": "2024-08-20",
-    "translate": {
-      "zh-TW": "不不不不",
-      "en-US": "Iya 4x",
-      "ja-JP": "いやいやいやいや"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "",
-      "time": "",
-      "url": ""
-    }
-  },
-  {
-    "name": "ne",
-    "path": "ne.mp3",
-    "date": "2024-08-20",
-    "translate": {
-      "zh-TW": "ね～",
-      "en-US": "Nee",
-      "ja-JP": "ね～"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "",
-      "time": "",
-      "url": ""
-    }
-  },
-  {
-    "name": "menbashipuGiftArigatou",
-    "path": "menbashipuGiftArigatou.mp3",
-    "date": "2024-08-20",
-    "translate": {
-      "zh-TW": "會員贈禮感謝1",
-      "en-US": "Nice gift 1",
-      "ja-JP": "ナイギフ1"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "ハードコアってどんな感じなの？意外と簡単なんじゃないの？",
-      "time": "2024-08-14",
-      "url": "https://www.youtube.com/watch?v=3O8fEARVgDA"
-    }
-  },
-  {
-    "name": "menbashipuGiftArigatouNaigifuArigatou",
-    "path": "menbashipuGiftArigatouNaigifuArigatou.mp3",
-    "date": "2024-08-20",
-    "translate": {
-      "zh-TW": "會員贈禮感謝2",
-      "en-US": "Nice gift 2",
-      "ja-JP": "ナイギフ2"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "ハードコアってどんな感じなの？意外と簡単なんじゃないの？",
-      "time": "2024-08-14",
-      "url": "https://www.youtube.com/watch?v=3O8fEARVgDA"
-    }
-  },
-  {
-    "name": "Arr",
-    "path": "Arr.mp3",
-    "date": "2024-08-20",
-    "translate": {
-      "zh-TW": "慘叫聲",
-      "en-US": "Screams",
-      "ja-JP": "悲鳴"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "ハードコアってどんな感じなの？意外と簡単なんじゃないの？",
-      "time": "2024-08-14",
-      "url": "https://www.youtube.com/watch?v=3O8fEARVgDA"
+      "title": "新プラン開始！130％が見たい！！！！",
+      "time": "2024-07-02",
+      "url": "https://www.youtube.com/watch?v=RGGz17QOLyU"
     }
   },
   {
@@ -378,297 +105,87 @@
     }
   },
   {
-    "name": "aniki",
-    "path": "aniki.mp3",
-    "date": "2024-08-21",
+    "name": "安安",
+    "path": "安安.mp3",
+    "date": "2024-09-05",
     "translate": {
-      "zh-TW": "大哥",
-      "en-US": "Brother",
-      "ja-JP": "兄貴"
-    },
-    "usePicture": {
-      "zh-TW": "tnzAniki.jpg",
-      "en-US": "tnzAniki.jpg",
-      "ja-JP": "tnzAniki.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "新プラン開始！130％が見たい！！！！",
-      "time": "2024-07-02",
-      "url": "https://www.youtube.com/watch?v=RGGz17QOLyU"
-    }
-  },
-  {
-    "name": "deden",
-    "path": "deden.mp3",
-    "date": "2024-08-21",
-    "translate": {
-      "zh-TW": "登登",
-      "en-US": "Deden",
-      "ja-JP": "デデン"
+      "zh-TW": "安安",
+      "en-US": "hi",
+      "ja-JP": "あんあん"
     },
     "usePicture": {
       "zh-TW": "tnz400.jpg",
       "en-US": "tnz400.jpg",
       "ja-JP": "tnz400.jpg"
     },
-    "category": "雜項",
+    "category": "中文",
     "mark": {
-      "title": "新プラン開始！130％が見たい！！！！",
-      "time": "2024-07-02",
-      "url": "https://www.youtube.com/watch?v=RGGz17QOLyU"
+      "title": "台湾のお菓子食べてまったりお茶会♪",
+      "time": "2024-09-05",
+      "url": "https://www.youtube.com/watch?v=duQKt2cQXDs"
     }
   },
   {
-    "name": "hondouni",
-    "path": "hondouni.mp3",
-    "date": "2024-08-21",
+    "name": "晚安",
+    "path": "晚安.mp3",
+    "date": "2024-09-05",
     "translate": {
-      "zh-TW": "真的嗎",
-      "en-US": "Surely",
-      "ja-JP": "本当に"
+      "zh-TW": "晚安",
+      "en-US": "Good evening",
+      "ja-JP": "こんばんは"
     },
     "usePicture": {
       "zh-TW": "tnz400.jpg",
       "en-US": "tnz400.jpg",
       "ja-JP": "tnz400.jpg"
     },
-    "category": "雜項",
+    "category": "中文",
     "mark": {
-      "title": "新プラン開始！130％が見たい！！！！",
-      "time": "2024-07-02",
-      "url": "https://www.youtube.com/watch?v=RGGz17QOLyU"
+      "title": "台湾のお菓子食べてまったりお茶会♪",
+      "time": "2024-09-05",
+      "url": "https://www.youtube.com/watch?v=duQKt2cQXDs"
     }
   },
   {
-    "name": "ok",
-    "path": "ok.mp3",
-    "date": "2024-08-21",
+    "name": "hao",
+    "path": "hao.mp3",
+    "date": "2024-09-05",
     "translate": {
-      "zh-TW": "OK",
-      "en-US": "OK",
-      "ja-JP": "おk"
+      "zh-TW": "好",
+      "en-US": "Sure",
+      "ja-JP": "いい"
     },
     "usePicture": {
       "zh-TW": "tnz400.jpg",
       "en-US": "tnz400.jpg",
       "ja-JP": "tnz400.jpg"
     },
-    "category": "雜項",
+    "category": "中文",
     "mark": {
-      "title": "新プラン開始！130％が見たい！！！！",
-      "time": "2024-07-02",
-      "url": "https://www.youtube.com/watch?v=RGGz17QOLyU"
+      "title": "",
+      "time": "",
+      "url": ""
     }
   },
   {
-    "name": "urusa",
-    "path": "urusa.mp3",
-    "date": "2024-08-21",
+    "name": "我愛你",
+    "path": "我愛你.mp3",
+    "date": "2024-09-05",
     "translate": {
-      "zh-TW": "吵死",
-      "en-US": "Noisy",
-      "ja-JP": "うるさ"
+      "zh-TW": "我愛你",
+      "en-US": "I love you",
+      "ja-JP": "愛してる"
     },
     "usePicture": {
       "zh-TW": "tnz400.jpg",
       "en-US": "tnz400.jpg",
       "ja-JP": "tnz400.jpg"
     },
-    "category": "雜項",
+    "category": "中文",
     "mark": {
-      "title": "新プラン開始！130％が見たい！！！！",
-      "time": "2024-07-02",
-      "url": "https://www.youtube.com/watch?v=RGGz17QOLyU"
-    }
-  },
-  {
-    "name": "clip",
-    "path": "clip.mp3",
-    "date": "2024-08-22",
-    "translate": {
-      "zh-TW": "(拍手)",
-      "en-US": "(Clap)",
-      "ja-JP": "(拍手)"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "第二回！死んだら即終了ハードコアマイクラ！！！",
-      "time": "2024-08-21",
-      "url": "https://www.youtube.com/watch?v=xtl_zlxcU-g"
-    }
-  },
-  {
-    "name": "aaaa",
-    "path": "aaaa.mp3",
-    "date": "2024-08-25",
-    "translate": {
-      "zh-TW": "啊啊啊啊(長)",
-      "en-US": "Aaaa(long)",
-      "ja-JP": "ああああ(長)"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "【 #Palworld 】アプデですごいことなってるらしい…！",
-      "time": "2024-07-06",
-      "url": "https://www.youtube.com/watch?v=3lkD1B9RrZQ"
-    }
-  },
-  {
-    "name": "wai",
-    "path": "wai.mp3",
-    "date": "2024-08-25",
-    "translate": {
-      "zh-TW": "Wai",
-      "en-US": "Wai",
-      "ja-JP": "ワイ"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "【 #Palworld 】アプデですごいことなってるらしい…！",
-      "time": "2024-07-06",
-      "url": "https://www.youtube.com/watch?v=3lkD1B9RrZQ"
-    }
-  },
-  {
-    "name": "yatta",
-    "path": "yatta.mp3",
-    "date": "2024-08-25",
-    "translate": {
-      "zh-TW": "做到了！",
-      "en-US": "Hooray!",
-      "ja-JP": "やったー"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "【 #Palworld 】アプデですごいことなってるらしい…！",
-      "time": "2024-07-06",
-      "url": "https://www.youtube.com/watch?v=3lkD1B9RrZQ"
-    }
-  },
-  {
-    "name": "mouikkaiasoberudon",
-    "path": "mouikkaiasoberudon.mp3",
-    "date": "2024-08-25",
-    "translate": {
-      "zh-TW": "太鼓達人(再玩一次)",
-      "en-US": "Taiko no Tatsujin(Play Again)",
-      "ja-JP": "もう一回遊べるドン"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "【 #Palworld 】アプデですごいことなってるらしい…！",
-      "time": "2024-07-06",
-      "url": "https://www.youtube.com/watch?v=3lkD1B9RrZQ"
-    }
-  },
-  {
-    "name": "kyokuwoerabudon",
-    "path": "kyokuwoerabudon.mp3",
-    "date": "2024-08-25",
-    "translate": {
-      "zh-TW": "太鼓達人(選擇歌曲)",
-      "en-US": "Taiko no Tatsujin(Select Songs)",
-      "ja-JP": "曲を選ぶドン"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "【 #Palworld 】アプデですごいことなってるらしい…！",
-      "time": "2024-07-06",
-      "url": "https://www.youtube.com/watch?v=3lkD1B9RrZQ"
-    }
-  },
-  {
-    "name": "shikanokonokonokokoshitantan",
-    "path": "shikanokonokonokokoshitantan.mp3",
-    "date": "2024-08-25",
-    "translate": {
-      "zh-TW": "鹿乃子乃子乃子虎視眈眈",
-      "en-US": "Shikanoko nokonoko koshitantan",
-      "ja-JP": "しかのこのこのここしたんたん"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "【 #Palworld 】アプデですごいことなってるらしい…！",
-      "time": "2024-07-06",
-      "url": "https://www.youtube.com/watch?v=3lkD1B9RrZQ"
-    }
-  },
-  {
-    "name": "yabai",
-    "path": "yabai.mp3",
-    "date": "2024-08-29",
-    "translate": {
-      "zh-TW": "牙敗 9x",
-      "en-US": "Oh no 9x",
-      "ja-JP": "ヤバい 9x"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "第二回！死んだら即終了ハードコアマイクラ！！！",
-      "time": "2024-08-21",
-      "url": "https://www.youtube.com/watch?v=xtl_zlxcU-g"
-    }
-  },
-  {
-    "name": "katta",
-    "path": "katta.mp3",
-    "date": "2024-08-29",
-    "translate": {
-      "zh-TW": "贏了！ 4x",
-      "en-US": "Win! 4x",
-      "ja-JP": "勝った！ 4x"
-    },
-    "usePicture": {
-      "zh-TW": "tnz400.jpg",
-      "en-US": "tnz400.jpg",
-      "ja-JP": "tnz400.jpg"
-    },
-    "category": "雜項",
-    "mark": {
-      "title": "第二回！死んだら即終了ハードコアマイクラ！！！",
-      "time": "2024-08-21",
-      "url": "https://www.youtube.com/watch?v=xtl_zlxcU-g"
+      "title": "台湾のお菓子食べてまったりお茶会♪",
+      "time": "2024-09-05",
+      "url": "https://www.youtube.com/watch?v=duQKt2cQXDs"
     }
   }
 ]
