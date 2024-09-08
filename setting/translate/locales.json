@@ -2,28 +2,28 @@
   "zh-TW": {
     "info": {
       "toGithub": "前往 KM 的 Github",
-      "notOfficial": "本網頁為觀眾們自主開發，與 TanZ 本人尚未官方合作。"
+      "notOfficial": "本網頁為觀眾們自主開發，與 TanZ 本人未官方合作。聲音及圖像皆已獲得TanZ許可。"
     },
     "action": {
       "randomplay": "隨機選一個",
       "stopvoice": "停止播放",
       "overlap": "開啟聲音重疊",
-      "overlapTip": "目前聲音會重疊喔~",
+      "overlapTip": "目前聲音會重疊喔",
       "autoRandom": "自動隨機播放",
-      "autoRandomTip": "目前會隨機播放喔~",
+      "autoRandomTip": "目前會隨機播放喔",
       "loop": "開啟循環",
-      "loopTip_1": "正在單曲循環~",
-      "loopTip_2": "正在分類循環~",
-      "loopTip_3": "正在全部循環~",
+      "loopTip_1": "正在單曲循環",
+      "loopTip_2": "正在分類循環",
+      "loopTip_3": "正在全部循環",
       "showInfo": "切換分類模式",
-      "noplay": "目前沒有在播放聲音~"
+      "noplay": "目前沒有在播放聲音"
     },
     "readme": {
       "randomPlay": "使用此按鈕讓TanZ隨機發出一個聲音",
       "stop": "使用此按鈕讓TanZ惦惦",
-      "overlapOn": "現在可以同時播放許多聲音~",
+      "overlapOn": "現在可以同時播放許多聲音",
       "overlapOff": "使用此按鈕讓多個聲音重疊",
-      "autoRandomOn": "現在播放結束會隨機播放下一個按鈕~",
+      "autoRandomOn": "現在播放結束會隨機播放下一個按鈕",
       "autoRandomOff": "使用此按鈕可以開啟隨機播放",
       "loop_0": "使用此按鈕可以切換連續播放模式",
       "loop_1": "現在是單曲循環模式",
@@ -35,35 +35,35 @@
     "vtbbtn": "VTs",
     "voiceTotalTip": "目前蒐集的TanZ聲音數量",
     "playTimes": "你總共播放了",
-    "playTimes2": "次~",
+    "playTimes2": "次",
     "lang": "日本語に切り替える",
     "unknown": "我不知道聲音來源QQ"
   },
   "en-US": {
     "info": {
       "toGithub": "Go to KM's Github",
-      "notOfficial": "This webpage is independently developed by the audience and is not officially affiliated with TanZ."
+      "notOfficial": "This webpage is independently developed by the audience and is not officially affiliated with TanZ. The use of audio and images has been authorized by TanZ."
     },
     "action": {
       "randomplay": "Randomly select one",
       "stopvoice": "Stop playing",
       "overlap": "Enable voice overlap",
-      "overlapTip": "Voices are currently overlapping~",
+      "overlapTip": "Voices are currently overlapping",
       "autoRandom": "Auto random playback",
-      "autoRandomTip": "Currently playing randomly~",
+      "autoRandomTip": "Currently playing randomly",
       "loop": "Enable loop",
-      "loopTip_1": "Currently in single track loop~",
-      "loopTip_2": "Currently in category loop~",
-      "loopTip_3": "Currently in all loop~",
+      "loopTip_1": "Currently in single track loop",
+      "loopTip_2": "Currently in category loop",
+      "loopTip_3": "Currently in all loop",
       "showInfo": "Toggle category mode",
-      "noplay": "No sound is currently playing~"
+      "noplay": "No sound is currently playing"
     },
     "readme": {
       "randomPlay": "Use this button to have TanZ randomly emit a sound",
       "stop": "Use this button to make TanZ quiet",
-      "overlapOn": "Now you can play many sounds simultaneously~",
+      "overlapOn": "Now you can play many sounds simultaneously",
       "overlapOff": "Use this button to make multiple sounds overlap",
-      "autoRandomOn": "Now, after playing ends, the next button will be played randomly~",
+      "autoRandomOn": "Now, after playing ends, the next button will be played randomly",
       "autoRandomOff": "Use this button to enable random playback",
       "loop_0": "Use this button to switch continuous playback mode",
       "loop_1": "Currently in single track loop mode",
@@ -75,35 +75,35 @@
     "vtbbtn": "VTs",
     "voiceTotalTip": "Current number of collected TanZ's sounds",
     "playTimes": "You have played a total of",
-    "playTimes2": "times~",
+    "playTimes2": "times",
     "lang": "切換至繁體中文",
     "unknown": "I don't know the source of the sound QQ"
   },
   "ja-JP": {
     "info": {
       "toGithub": "KMのGithubへ移動",
-      "notOfficial": "このウェブページは視聴者によって独自に開発され、TanZ本人とはまだ公式に協力していません。"
+      "notOfficial": "このウェブページは視聴者によって自主的に開発され、TanZ本人とはまだ公式に協力していません。音声および画像はTanZ本人から許可を得ています。"
     },
     "action": {
       "randomplay": "ランダムに選ぶ",
       "stopvoice": "再生を停止",
       "overlap": "音声の重複を有効にする",
-      "overlapTip": "現在、音声が重複しています～",
+      "overlapTip": "現在、音声が重複しています",
       "autoRandom": "自動ランダム再生",
-      "autoRandomTip": "現在、ランダムに再生されます～",
+      "autoRandomTip": "現在、ランダムに再生されます",
       "loop": "ループを有効にする",
-      "loopTip_1": "現在、単曲ループ中～",
-      "loopTip_2": "現在、カテゴリーループ中～",
-      "loopTip_3": "現在、すべてのループ中～",
+      "loopTip_1": "現在、単曲ループ中",
+      "loopTip_2": "現在、カテゴリーループ中",
+      "loopTip_3": "現在、すべてのループ中",
       "showInfo": "カテゴリーモードを切り替える",
-      "noplay": "現在、音声は再生されていません～"
+      "noplay": "現在、音声は再生されていません"
     },
     "readme": {
       "randomPlay": "このボタンを使用して、TanZにランダムに音声を発するようにします",
       "stop": "このボタンを使用して、TanZを静かにします",
-      "overlapOn": "今、多くの音声を同時に再生できます～",
+      "overlapOn": "今、多くの音声を同時に再生できます",
       "overlapOff": "このボタンを使用して、複数の音声が重なります",
-      "autoRandomOn": "現在、再生が終了すると次のボタンがランダムに再生されます～",
+      "autoRandomOn": "現在、再生が終了すると次のボタンがランダムに再生されます",
       "autoRandomOff": "このボタンを使用して、ランダム再生を有効にします",
       "loop_0": "このボタンを使用して、連続再生モードを切り替えます",
       "loop_1": "現在、単曲ループモードです",

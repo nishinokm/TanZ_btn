@@ -88,8 +88,8 @@
     "path": "uma_high.mp3",
     "date": "2024-08-20",
     "translate": {
-      "zh-TW": "嗚嘛(高音)",
-      "en-US": "Mwah(high)",
+      "zh-TW": "UMA(高音)",
+      "en-US": "UMA(high)",
       "ja-JP": "うま(高い)"
     },
     "usePicture": {
@@ -109,8 +109,8 @@
     "path": "uma_low.mp3",
     "date": "2024-08-20",
     "translate": {
-      "zh-TW": "嗚嘛(低音)",
-      "en-US": "Mwah(low)",
+      "zh-TW": "UMA(低音)",
+      "en-US": "UMA(low)",
       "ja-JP": "うま(低い)"
     },
     "usePicture": {
@@ -123,6 +123,27 @@
       "title": "灰簾祭セトリ歌枠！！",
       "time": "2024-08-15",
       "url": "https://www.youtube.com/watch?v=WbJwFLAX4Kg"
+    }
+  },
+  {
+    "name": "uma3",
+    "path": "uma3.mp3",
+    "date": "2024-09-07",
+    "translate": {
+      "zh-TW": "UMA",
+      "en-US": "UMA",
+      "ja-JP": "うま"
+    },
+    "usePicture": {
+      "zh-TW": "tnz400.jpg",
+      "en-US": "tnz400.jpg",
+      "ja-JP": "tnz400.jpg"
+    },
+    "category": "動物",
+    "mark": {
+      "title": "【歌枠 / Singing】アニソン限定歌枠♪登録者115000人まで！【#新人vtuber 】",
+      "time": "2024-09-05",
+      "url": "https://www.youtube.com/watch?v=zU94ntM19lQ"
     }
   },
   {
