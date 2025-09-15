@@ -1,0 +1,71 @@
+name: Build & Deploy to TanZ_btn_web
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch: {}
+
+# 避免同分支重複執行
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+# 最小權限
+permissions:
+  contents: read
+
+env:
+  NODE_VERSION: "18"   # Vue CLI 5 與 Node 18 穩定
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source (TanZ_btn)
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Lint (optional)
+        run: npm run lint --if-present
+
+      - name: Build
+        run: npm run build
+
+      - name: Replace dist/index.html with ./index_base.html
+        run: |
+          if [ ! -f index_base.html ]; then
+            echo "index_base.html not found at repo root"; exit 1;
+          fi
+          if [ ! -d dist ]; then
+            echo "dist folder not found (build may have failed)"; exit 1;
+          fi
+          cp -f ./index_base.html ./dist/index.html
+
+      - name: Upload artifact 
+        uses: actions/upload-artifact@v4
+        with:
+          name: dist-after-replace
+          path: dist
+          retention-days: 7
+
+      # 把 dist 發佈到另一個 repo: nishinokm/TanZ_btn_web
+      # 需建立一個擁有 repo 權限的 PAT，存在本 repo 的 Secrets: TANZ_WEB_TOKEN
+      - name: Deploy to TanZ_btn_web
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          token: ${{ secrets.TANZ_WEB_TOKEN }}        # Personal Access Token，具備 repo 權限
+          repository-name: nishinokm/TanZ_btn_web     # 目標 Repo
+          branch: main                                # 目標分支（若是 pages 專用分支就填 gh-pages）
+          folder: dist                                # 要上傳的資料夾
+          clean: true
+          single-commit: true
